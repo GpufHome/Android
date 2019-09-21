@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Chizhikov</string>
+    <string name="weather">Weather</string>
+    <string name="HelloWorld">Hello World!</string>
+    <string name="GoodMorning">Good Morning</string>
+    <string name="GoodDay">Good Day</string>
+    <string name="GoodEvning">Good Evning</string>
+    <string name="clickForExit">Press again to exit</string>
+    </resources>
